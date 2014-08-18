@@ -1,0 +1,33 @@
+f35cac2 - Linux 3.4.60
+8b07e5c Linux 3.4.59
+cd1d6b2 Linux 3.4.58
+b75db71 Linux 3.4.57
+c57e6c2 Linux 3.4.56
+4b9bf68 Linux 3.4.55
+63832fd Linux 3.4.54
+dd840a5 Linux 3.4.53
+8ab8e54 Linux 3.4.52
+2f08654 (-) Linux 3.4.41 -> 3.4.50
+9894aa5 Linux 3.4.31 -> 3.4.40
+d14f4d5 Revert "Wifi : Switch to 3.2.3.172 revision of pronto driver"
+753b507 Update build script
+7b356ca update build script
+6b3866b Wifi : Switch to 3.2.3.172 revision of pronto driver
+01a3ff3 Fix build script with new exfat
+8714c68 Add exFAT
+8ef4a64 Add wifi firmware
+51c5df0 Update Pronto driver to kk_3.5_rb1.18 including firmware
+073359e Add Pronto WLAN Driver from kk_3.5_rb1.10 branch of https://www.codeaurora.org/cgit/quic/la/platform/vendor/qcom-opensource/wlan/prima/ And update m8* defconfigs
+93ccaf8 Update kernel version
+e0147cb remove dirty tag
+95a25ef Update aroma image
+d631266 Linux 3.4.21 -> 2.4.30
+ed611a9 Linux 3.4.11 -> 3.4.20
+942b81c Linux 3.4.3 -> 3.4.10
+1d29aa6 Linux 3.4.1
+feef49e Add rooted ramdisk
+2dd8c26 Clean up
+ced514b Update build method
+94c4f36 Add toolchain
+ac5c60c Remove fake toolchain
+c60d76a first commit

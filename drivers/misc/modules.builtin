@@ -1,0 +1,4 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/qpnp-vibrator.ko
+kernel/drivers/misc/qpnp-vibrator-pwm.ko
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko
